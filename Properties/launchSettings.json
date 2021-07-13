@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ManagedIdentity": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_CLIENT_SECRET": "value",
+        "AZURE_CLIENT_ID": "value",
+        "AZURE_TENANT_ID": "value"
+      }
+    }
+  }
+}
